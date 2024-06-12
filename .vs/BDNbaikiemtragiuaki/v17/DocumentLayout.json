@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\controllers\\bdnsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\controllers\\bdnsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdncreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdnindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdndelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdndelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdndetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\bdnsinhviens\\bdnedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\shared\\bdn_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\shared\\bdn_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|c:\\users\\admin\\desktop\\codek22\\k22cnt3-aspnetmvc\\bdnbaikiemtragiuaki\\bdnbaikiemtragiuaki\\models\\model2210900051.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9F6A6BA9-FEF1-4EC2-9865-6C7AAC40A24E}|BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki.csproj|solutionrelative:bdnbaikiemtragiuaki\\models\\model2210900051.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BDNEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNEdit.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNEdit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNEdit.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNEdit.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:40:22.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BDNDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDetails.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDetails.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDetails.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDetails.cshtml",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:40:11.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BDNDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDelete.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDelete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDelete.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNDelete.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:39:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BDNCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNCreate.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNCreate.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNCreate.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNCreate.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:12:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BDNIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNIndex.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNIndex.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNIndex.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\bdnSinhViens\\BDNIndex.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:09:09.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bdnSinhViensController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Controllers\\bdnSinhViensController.cs",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Controllers\\bdnSinhViensController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Controllers\\bdnSinhViensController.cs",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Controllers\\bdnSinhViensController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:57:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model2210900051.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Models\\Model2210900051.edmx",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Models\\Model2210900051.edmx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Models\\Model2210900051.edmx [Diagram1]",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Models\\Model2210900051.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-12T02:24:51.9Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:35:11.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BDN_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\Shared\\BDN_Layout.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\Shared\\BDN_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\Shared\\BDN_Layout.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\Shared\\BDN_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:29:39.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BDNbaikiemtragiuaki\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Codek22\\k22cnt3-ASPNETMVC\\BDNbaikiemtragiuaki\\BDNbaikiemtragiuaki\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BDNbaikiemtragiuaki\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:27:09.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
